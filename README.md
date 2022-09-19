@@ -1,5 +1,5 @@
-# metaGBoostBoosting
-`metaGBoost` is nothing more than a common interface for four popular gradient-boosting (ensemble) frameworks: XGBoost, CatBoost, LightGBM and scikitlearn Gradient Boosting. [Meta](https://en.wikipedia.org/wiki/Meta) (from the Greek μετά, meta, meaning "after" or "beyond") is a prefix meaning "more comprehensive" or "transcending." Similarly, the name was here used to mean that there are more than one gradient boosting implementation available. `metaGBoost` is shortened to `MGB`.
+# pyMGBoost - python Meta Gadient Boosting
+`pyMGBoost ` is nothing more than a common interface for four popular gradient-boosting (ensemble) frameworks: XGBoost, CatBoost, LightGBM and scikitlearn Gradient Boosting. [Meta](https://en.wikipedia.org/wiki/Meta) (from the Greek μετά, meta, meaning "after" or "beyond") is a prefix meaning "more comprehensive" or "transcending." Similarly, the name was here used to mean that there are more than one gradient boosting implementation available. `metaGBoost` is shortened to `MGB`.
 
 ## Why Gradient Boosting?
 Gradient Boosting is a form og ensemble that has become the de-facto and almost ubiquitous solution for tabular data. Thus, I thought that having a small wrapper around it to get myself off the ground quickly was a good project. So here it is the reason of why this reposotiry was created.
