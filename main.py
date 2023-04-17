@@ -2,7 +2,7 @@
 The purpouses of this script is to show how to
 call the KPT mdodule from a python script. It is
 however suggested to use a jupyter notebook to use
-the plotting routintes.
+the plotting routines.
 """
 
 # Import modules
